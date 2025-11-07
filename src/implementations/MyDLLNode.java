@@ -1,4 +1,4 @@
-package utilities;
+package implementations;
 
 public class MyDLLNode<T> {
     private T element;
